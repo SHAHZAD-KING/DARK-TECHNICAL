@@ -4,6 +4,7 @@ CREATE BY > [MR-SHAHZAD & MR-BASIR]
 {•UPDATED DONE•}
 
 ~ACTIVE TERMUX ORDERS~ 🔰
+
 pkg update 
 
 pkg upgrade 
